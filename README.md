@@ -1,4 +1,4 @@
-## Olá! Eu sou o Reinan Khevne
+## Olá! Eu sou Reinan Khevne
 <div align="center">
   <a href="https://github.com/ReinanKhevne">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReinanKhevne&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
